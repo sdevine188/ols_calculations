@@ -2,6 +2,9 @@ library(RConics)
 library(tidyverse)
 library(broom)
 
+# complete walkthrough in excel
+# https://people.duke.edu/~rnau/mathreg.htm
+
 # http://faculty.cas.usf.edu/mbrannick/regression/regma.htm
 # http://www.statmethods.net/advstats/matrix.html
 # https://onlinecourses.science.psu.edu/stat501/node/382
